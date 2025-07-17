@@ -1,0 +1,17 @@
+pyttsx3
+speechrecognition
+wikipedia
+pyjokes
+feedparser
+ecapture
+twilio
+pyaudio
+datetime
+pywhatkit
+smtplib
+os
+subprocess
+webbrowser
+time
+json
+winshell
