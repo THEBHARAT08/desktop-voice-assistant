@@ -68,7 +68,6 @@ A Python‑based voice assistant for **Windows** that can greet you, search Wiki
 ```
 ├── jarvis.py         # Core assistant
 ├── sidjar.py         # Extended features
-├── jarvis.txt        # Notes file (auto‑generated)
 ├── requirements.txt  # Python dependencies
 └── README.md         # You are here!
 ```
@@ -81,9 +80,6 @@ A Python‑based voice assistant for **Windows** that can greet you, search Wiki
 4. Push to the branch: `git push origin feature/YourFeature`  
 5. Open a Pull Request  
 
-## 📜 License
-
-This project is open‑source and available under the [MIT License](LICENSE).
 
 ---
 
